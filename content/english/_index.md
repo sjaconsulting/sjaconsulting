@@ -1,53 +1,51 @@
 ---
 # Banner
 banner:
-  title: "The Ultimate Starter Template You Need To Start Your Hugo Project"
-  content: "Hugoplate is a free starter template built with Hugo and TailwindCSS, providing everything you need to jumpstart your Hugo project and save valuable time."
-  image: "/images/banner.png"
+  title: "Tech Wisdom, Mindful Solutions"
+  content: "Blending expertise with innovation for effective IT solutions. We focus on simplicity, security, and client success, guiding businesses through digital complexities to foster growth and confidence. Our commitment is your digital prosperity."
+  image: "/images/banner.jpg"
   button:
     enable: true
-    label: "Get Started For Free"
-    link: "https://github.com/zeon-studio/hugoplate"
+    label: "Unlock Digital Potential"
+    link: "#"
 
 # Features
 features:
-  - title: "What's Included in Hugoplate"
-    image: "/images/service-1.png"
-    content: "Hugoplate is a comprehensive starter template that includes everything you need to get started with your Hugo project. What's Included in Hugoplate"
+  - title: "Empower Your Business with Cutting-Edge IT Solutions"
+    image: "/images/service-1.jpg"
+    content: "From transformative web development to comprehensive cybersecurity consulting, SJA Consulting is your partner in crafting secure, innovative digital experiences. Let's build a future where your business not only succeeds but thrives."
     bulletpoints:
-      - "10+ Pre-build pages"
-      - "95+ Google Pagespeed Score"
-      - "Build with Hugo and TailwindCSS for easy and customizable styling"
-      - "Fully responsive on all devices"
-      - "SEO-optimized for better search engine rankings"
-      - "**Open-source and free** for personal and commercial use"
-    button:
-      enable: false
-      label: "Get Started Now"
-      link: "#"
-
-  - title: "Discover the Key Features Of Hugo"
-    image: "/images/service-2.png"
-    content: "Hugo is an all-in-one web framework for building fast, content-focused websites. It offers a range of exciting features for developers and website creators. Some of the key features are:"
-    bulletpoints:
-      - "Zero JS, by default: No JavaScript runtime overhead to slow you down."
-      - "Customizable: Tailwind, MDX, and 100+ other integrations to choose from."
-      - "UI-agnostic: Supports React, Preact, Svelte, Vue, Solid, Lit and more."
+      - "**Custom Web Development:** Tailored web solutions that marry form and function, ensuring your digital presence is both powerful and user-friendly."
+      - "**Cybersecurity Consulting:** Robust protection strategies, from HTTPS encryption and DDoS defense to comprehensive corporate cybersecurity plans, ensuring your data's integrity and your operations' security."
+      - "**Performance Optimization:** Speed and efficiency are the hallmarks of our web optimization services, guaranteeing a seamless user experience across all digital platforms."
+      - "**Secure Hosting Solutions:** Reliable, scalable hosting with built-in security measures for unwavering online presence and peace of mind."
+      - "**IT Strategy Consulting:** Strategic guidance to navigate the ever-evolving digital landscape, leveraging technology to drive business growth and innovation."
     button:
       enable: true
-      label: "Get Started Now"
-      link: "https://github.com/zeon-studio/hugoplate"
+      label: "Explore Our Services"
+      link: "#"
 
-  - title: "The Top Reasons to Choose Hugo for Your Hugo Project"
-    image: "/images/service-3.png"
-    content: "With Hugo, you can build modern and content-focused websites without sacrificing performance or ease of use."
+  - title: "Secure Your Digital Frontier"
+    image: "/images/service-2.jpg"
+    content: "**Navigating you through the complexity of cybersecurity with ease and expertise.** In the vast digital landscape, securing your business's future means preparing today. SJA Consulting stands at the forefront of cybersecurity, ensuring your peace of mind with tailored solutions that protect and empower. Our approach is your safeguard."
     bulletpoints:
-      - "Instantly load static sites for better user experience and SEO."
-      - "Intuitive syntax and support for popular frameworks make learning and using Hugo a breeze."
-      - "Use any front-end library or framework, or build custom components, for any project size."
-      - "Built on cutting-edge technology to keep your projects up-to-date with the latest web standards."
+      - "**Comprehensive Assessments:** Evaluating your current cybersecurity posture to identify potential vulnerabilities."
+      - "**Customized Solutions:** Developing strategies that fit your unique business needs, focusing on robust security without complexity."
+      - "**Ongoing Support:** Offering continual guidance and updates to ensure your defenses evolve with digital threats."
     button:
-      enable: false
-      label: ""
-      link: ""
+      enable: true
+      label: "Protect Your Business"
+      link: "#"
+
+  - title: "Transform Your Website Experience"
+    image: "/images/service-3.jpg"
+    content: "**Crafting serene digital spaces that resonate with your audience.** At SJA Consulting, we believe in creating websites that go beyond the digital realm — they're experiences. Imbued with elegant simplicity and designed with your user in mind, our websites stand as beacons of calm and clarity in the bustling online world."
+    bulletpoints:
+      - "**User-Centered Design:** Building from the ground up with a focus on accessibility, usability, and engagement."
+      - "**Visual Harmony:** Integrating aesthetics that reflect your brand’s philosophy and invite interaction."
+      - "**Strategic Development:** Ensuring that every element serves a purpose, enhancing your site's performance and security."
+    button:
+      enable: true
+      label: "Begin Your Transformation"
+      link: "#"
 ---

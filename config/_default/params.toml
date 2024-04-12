@@ -2,16 +2,16 @@
 # favicon module: https://github.com/gethugothemes/hugo-modules/tree/master/images#favicon-implementation
 favicon = "images/favicon.png"
 # logo module: https://github.com/gethugothemes/hugo-modules/tree/master/images#logo-implementation
-logo = "images/logo.png"
-logo_darkmode = "images/logo-darkmode.png"
+logo = "images/logo.svg"
+logo_darkmode = "images/logo-darkmode.svg"
 # use `px` or `x` with logo_width, example: "100px".
 # Note: logo_width is not work with .svg file
 logo_width = "160px"
-logo_height = "32px"
+logo_height = "64px"
 # if logo_webp set false, will not generate WEBP version of logo | default is true
 logo_webp = true
 # logo text will only show when logo is missing.
-logo_text = "Hugoplate"
+logo_text = "SJA Consulting"
 # navbar fixed to top
 navbar_fixed = true
 # theme-mode
@@ -20,14 +20,14 @@ theme_default = "system" # available options [light/dark/system]
 # Main Sections
 mainSections = ["blog"]
 # contact form action
-contact_form_action = "#" # contact form works with [https://airform.io/] or [https://formspree.io]
+contact_form_action = "https://formspree.io/f/mleqobvb" # contact form works with [https://airform.io/] or [https://formspree.io]
 # google tag manager, see https://developers.google.com/tag-manager/
 google_tag_manager = "" # example: G-XXXXXXXXXX
 google_adsense = ""     # example: ca-pub-xxxxxxxxxxxxxxxx
 # custom script on header, example: custom_script= "<script>console.log(\"Hello World\")</script>"
 custom_script = ""
 # copyright
-copyright = "Designed & Developed by [Zeon Studio](https://zeon.studio)"
+copyright = "Copyright &copy;2024 [SJA Consulting](https://www.sjaconsulting.com/)"
 
 # Preloader
 # preloader module: https://github.com/gethugothemes/hugo-modules/tree/master/components/preloader
@@ -38,7 +38,7 @@ preloader = "" # use jpg, png, svg or gif format.
 # Navigation button
 [navigation_button]
 enable = true
-label = "get a quote"
+label = "Connect with an Expert"
 link = "contact"
 
 # search
@@ -56,9 +56,9 @@ show_categories = true
 # seo meta data for OpenGraph / Twitter Card
 # seo module: https://github.com/gethugothemes/hugo-modules/tree/master/seo-tools/basic-seo
 [metadata]
-keywords = ["Boilerplate", "Hugo"]
-description = "Hugo & Tailwindcss Starter"
-author = "zeon.studio"
+keywords = ["Web Consulting", "Web Development",  "Internet Technology Consulting", "Cybersecurity"]
+description = "SJA Consulting"
+author = "SJA Consulting"
 image = "images/og-image.png"
 
 
@@ -74,7 +74,7 @@ mastodon = "" # Your verification code
 # cookies
 # cookies module: https://github.com/gethugothemes/hugo-modules/tree/master/components/cookie-consent
 [cookies]
-enable = false
+enable = true
 expire_days = 60
 content = "This site uses cookies. By continuing to use this website, you agree to their use."
 button = "I Accept"
@@ -86,10 +86,10 @@ sidebar = ["categories", "tags"]
 
 # google map
 [google_map]
-enable = false
-map_api_key = "AIzaSyCcABaamniA6OL5YvYSpB3pFMNrXwXnLwU"
-map_latitude = "51.5223477"
-map_longitude = "-0.1622023"
+enable = true
+map_api_key = "AIzaSyCCLgqua6f6BIlTg4woHmjeOtkcHjLi1E4"
+map_latitude = "48.2883"
+map_longitude = "-122.6484"
 map_marker = "images/marker.png"
 
 
@@ -97,5 +97,6 @@ map_marker = "images/marker.png"
 [subscription]
 enable = false
 # mailchimp subsciption
-mailchimp_form_action = "https://gmail.us4.list-manage.com/subscribe/post?u=463ee871f45d2d93748e77cad&amp;id=a0a2c6d074" # replace this url with yours
-mailchimp_form_name = "b_463ee871f45d2d93748e77cad_a0a2c6d074"
+mailchimp_form_action = "https://sjaconsulting.us22.list-manage.com/subscribe/post?u=204135acf9bde353545848937&amp;id=d99e374b71&amp;v_id=20&amp;f_id=00fbc6e1f0" # replace this url with yours
+mailchimp_form_name = "b_204135acf9bde353545848937_d99e374b71"
+button_label = "Subscribe"
