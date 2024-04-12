@@ -7,57 +7,92 @@ pageRef = "/"
 weight = 1
 
 [[main]]
-name = "About"
+name = "About Us"
 pageRef = "/about"
 weight = 2
 
 [[main]]
-name = "Elements"
-pageRef = "/elements"
+name = "Services"
+pageRef = "/services"
 weight = 3
 
 [[main]]
-weight = 4
-name = "Pages"
+parent = "Services"
+name = "Custom Web Development"
+pageRef = "/services/web-development"
+weight = 1
 
 [[main]]
-parent = "Pages"
+parent = "Services"
+name = "Cybersecurity Consulting"
+pageRef = "/services/cybersecurity"
+weight = 2
+
+[[main]]
+parent = "Services"
+name = "IT Strategy Consulting"
+pageRef = "/services/it-strategy"
+weight = 3
+
+[[main]]
+parent = "Services"
+name = "Performance Optimization"
+pageRef = "/services/performance-optimization"
+weight = 4
+
+[[main]]
+parent = "Services"
+name = "Secure Hosting Solutions"
+pageRef = "/services/secure-hosting"
+weight = 5
+
+[[main]]
+name = "Industries"
+pageRef = "/industries"
+weight = 4
+
+[[main]]
+weight = 5
+name = "Resources"
+
+[[main]]
+parent = "Resources"
 name = "Blog"
 pageRef = "/blog"
 
 [[main]]
-parent = "Pages"
-name = "Contact"
-pageRef = "/contact"
-
-[[main]]
-parent = "Pages"
+parent = "Resources"
 name = "Authors"
 pageRef = "/authors"
 
 [[main]]
-parent = "Pages"
+parent = "Resources"
 name = "Categories"
 pageRef = "/categories"
 
 [[main]]
-parent = "Pages"
-name = "404 Page"
-pageRef = "/404"
+parent = "Resources"
+name = "Elements"
+pageRef = "/elements"
+
+[[main]]
+weight = 6
+name = "Contact"
+pageRef = "/contact"
 
 
 # footer menu
 [[footer]]
-name = "About"
-pageRef = "/about"
+name = "FAQ"
+pageRef = "/faq"
 weight = 1
-
-[[footer]]
-name = "Elements"
-pageRef = "/elements"
-weight = 2
 
 [[footer]]
 name = "Privacy Policy"
 pageRef = "/privacy-policy"
+weight = 2
+
+[[footer]]
+name = "Terms of Service"
+pageRef = "/terms"
 weight = 3
