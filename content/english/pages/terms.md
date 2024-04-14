@@ -4,7 +4,7 @@ date: 2024-04-09T10:47:59-07:00
 # meta title
 meta_title: "Terms of Service"
 # meta description
-description: "This is meta description"
+description: "SJA Consulting Terms of Service"
 # save as draft
 draft: false
 ---

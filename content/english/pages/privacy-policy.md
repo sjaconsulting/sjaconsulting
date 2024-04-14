@@ -3,7 +3,7 @@ title: "Privacy Policy"
 # meta title
 meta_title: "Privacy Policy"
 # meta description
-description: "This is meta description"
+description: "SJA Consulting Privacy Policy"
 # save as draft
 draft: false
 ---
