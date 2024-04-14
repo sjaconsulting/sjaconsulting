@@ -47,39 +47,14 @@ pageRef = "/services/secure-hosting"
 weight = 5
 
 [[main]]
-name = "Industries"
-pageRef = "/industries"
 weight = 4
-
-[[main]]
-weight = 5
-name = "Resources"
-
-[[main]]
-parent = "Resources"
 name = "Blog"
 pageRef = "/blog"
 
 [[main]]
-parent = "Resources"
-name = "Authors"
-pageRef = "/authors"
-
-[[main]]
-parent = "Resources"
-name = "Categories"
-pageRef = "/categories"
-
-[[main]]
-parent = "Resources"
-name = "Elements"
-pageRef = "/elements"
-
-[[main]]
-weight = 6
+weight = 5
 name = "Contact"
 pageRef = "/contact"
-
 
 # footer menu
 [[footer]]

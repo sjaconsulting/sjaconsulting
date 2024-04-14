@@ -1,9 +1,13 @@
 ---
-title: "Hey, I am John Doe!"
-meta_title: "About"
-description: "this is meta description"
-image: "/images/avatar.png"
+title: "About SJA Consulting"
+meta_title: "About SJA Consulting"
+description: "SJA Consulting Mission"
+image: "images/logo.svg"
 draft: false
 ---
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis illum nesciunt commodi vel nisi ut alias excepturi ipsum, totam, labore tempora, odit ex iste tempore sed. Fugit voluptatibus perspiciatis assumenda nulla ad nihil, omnis vel, doloremque sit quam autem optio maiores, illum eius facilis et quo consectetur provident dolor similique! Enim voluptatem dicta expedita veritatis repellat dolorum impedit, provident quasi at.
+### "Tech Wisdom, Mindful Solutions."
+
+Welcome to SJA Consulting, where expertise meets innovation to transform your IT challenges into streamlined, secure solutions. Specializing in web development, cybersecurity, and strategic IT consulting, we cater to small and midsize businesses seeking to enhance their digital operations. With a commitment to simplicity, security, and success, we tailor our approach to fit your specific needs, acting not just as service providers, but as partners dedicated to your digital prosperity.
+
+**[Contact us](/contact) to explore how we can support your journey to digital excellence**.
