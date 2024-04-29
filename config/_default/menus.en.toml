@@ -71,3 +71,8 @@ weight = 2
 name = "Terms of Service"
 pageRef = "/terms"
 weight = 3
+
+[[footer]]
+name = "Cookies"
+pageRef = "/cookies"
+weight = 4
