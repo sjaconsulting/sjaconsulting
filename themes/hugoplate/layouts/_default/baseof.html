@@ -13,6 +13,7 @@
 
     <!-- style (always cache it) -->
     {{ partialCached "essentials/style.html" . }}
+
   </head>
 
   <body>
@@ -27,6 +28,10 @@
       <!-- tailwind size indicator -->
       {{ partial "components/tw-size-indicator.html" . }}
     {{ end }}
+
+
+    <!-- announcement -->
+    {{ partialCached "announcement.html" . }}
 
 
     <!-- header (don't cache it) -->

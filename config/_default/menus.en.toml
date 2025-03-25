@@ -3,17 +3,17 @@
 # main menu
 [[main]]
 name = "Home"
-pageRef = "/"
+url = "/"
 weight = 1
 
 [[main]]
 name = "About Us"
-pageRef = "/about"
+url = "/about"
 weight = 2
 
 [[main]]
 name = "Services"
-pageRef = "/services"
+url = "/services"
 weight = 3
 
 [[main]]
@@ -49,30 +49,30 @@ weight = 5
 [[main]]
 weight = 4
 name = "Blog"
-pageRef = "/blog"
+url = "/blog"
 
 [[main]]
 weight = 5
 name = "Contact"
-pageRef = "/contact"
+url = "/contact"
 
 # footer menu
 [[footer]]
 name = "FAQ"
-pageRef = "/faq"
+url = "/faq"
 weight = 1
 
 [[footer]]
 name = "Privacy Policy"
-pageRef = "/privacy-policy"
+url = "/privacy-policy"
 weight = 2
 
 [[footer]]
 name = "Terms of Service"
-pageRef = "/terms"
+url = "/terms"
 weight = 3
 
 [[footer]]
 name = "Cookies"
-pageRef = "/cookies"
+url = "/cookies"
 weight = 4
